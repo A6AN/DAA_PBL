@@ -1,0 +1,7 @@
+id,name,description,first_seen_time,urgency_band
+1,Transit disruption,Simulated transit disruption coverage,1730000000,1
+2,River monitoring,Simulated river monitoring coverage,1730003600,2
+3,Energy grid,Simulated energy grid coverage,1730007200,3
+4,Technology conference,Simulated technology conference coverage,1730010800,0
+5,Health services,Simulated health services coverage,1730014400,1
+6,Education policy,Simulated education policy coverage,1730018000,2

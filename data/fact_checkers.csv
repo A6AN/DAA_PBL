@@ -1,0 +1,6 @@
+id,name,expertise_tags,available_capacity,assigned_workload
+1,Verification editor 1,transit|public,3,0
+2,Verification editor 2,weather|river,2,0
+3,Verification editor 3,energy|infrastructure,3,0
+4,Verification editor 4,technology|education,2,0
+5,Verification editor 5,health|public,3,0

@@ -1,0 +1,53 @@
+id,headline,body,source_id,publication_time,tags,event_id,urgency_score,verification_status
+1,City transit services adjust weekend schedules,"Transport authorities issued a schedule update and described the affected routes.
+Further observations will follow later today.",1,1730000000,transit|public,1,40,0
+2,River monitoring stations publish new readings,Monitoring teams released water level observations and expected updates.,2,1730000900,river|weather,2,41,1
+3,Power grid teams announce maintenance window,Maintenance crews outlined service adjustments and safety procedures.,3,1730001800,energy|infrastructure,3,42,2
+4,Technology conference opens with local presentations,Conference speakers discussed local research and new projects.,4,1730002700,technology|education,4,43,3
+5,Health clinics announce extended appointments,Clinic staff outlined appointment slots and available services.,5,1730003600,health|public,5,44,0
+6,Education offices publish enrollment guidelines,Education officers discussed registration dates and enrollment support.,6,1730004500,education|public,6,45,1
+7,City transit services adjust weekend schedules,Transport authorities issued a schedule update and described the affected routes.,7,1730005400,transit|public,1,46,2
+8,River monitoring stations publish new readings,Monitoring teams released water level observations and expected updates.,8,1730006300,river|weather,2,47,3
+9,Power grid teams announce maintenance window,Maintenance crews outlined service adjustments and safety procedures.,1,1730007200,energy|infrastructure,3,48,0
+10,Technology conference opens with local presentations,Conference speakers discussed local research and new projects.,2,1730008100,technology|education,4,49,1
+11,Health clinics announce extended appointments,Clinic staff outlined appointment slots and available services.,3,1730009000,health|public,5,50,2
+12,Education offices publish enrollment guidelines,Education officers discussed registration dates and enrollment support.,4,1730009900,education|public,6,51,3
+13,City transit services adjust weekend schedules bulletin 2,Transport authorities issued a schedule update and described the affected routes.,5,1730010800,transit|public,1,52,0
+14,"River monitoring stations, ""new readings"" published","Monitoring teams released water level observations and expected updates.
+Further observations will follow later today.",6,1730011700,river|weather,2,53,1
+15,Power grid teams announce maintenance window bulletin 2,Maintenance crews outlined service adjustments and safety procedures.,7,1730012600,energy|infrastructure,3,54,2
+16,Technology conference opens with local presentations bulletin 2,Conference speakers discussed local research and new projects.,8,1730013500,technology|education,4,55,3
+17,Health clinics announce extended appointments bulletin 2,Clinic staff outlined appointment slots and available services.,1,1730014400,health|public,5,56,0
+18,Education offices publish enrollment guidelines bulletin 2,Education officers discussed registration dates and enrollment support.,2,1730015300,education|public,6,57,1
+19,City transit services adjust weekend schedules bulletin 3,Transport authorities issued a schedule update and described the affected routes.,3,1730016200,transit|public,1,58,2
+20,River monitoring stations publish new readings bulletin 3,Monitoring teams released water level observations and expected updates.,4,1730017100,river|weather,2,59,3
+21,Power grid teams announce maintenance window bulletin 3,Maintenance crews outlined service adjustments and safety procedures.,5,1730018000,energy|infrastructure,3,60,0
+22,Technology conference opens with local presentations bulletin 3,Conference speakers discussed local research and new projects.,6,1730018900,technology|education,4,61,1
+23,Health clinics announce extended appointments bulletin 3,Clinic staff outlined appointment slots and available services.,7,1730019800,health|public,5,62,2
+24,Education offices publish enrollment guidelines bulletin 3,Education officers discussed registration dates and enrollment support.,8,1730020700,education|public,6,63,3
+25,City transit services adjust weekend schedules bulletin 4,Transport authorities issued a schedule update and described the affected routes.,1,1730021600,transit|public,1,64,0
+26,River monitoring stations publish new readings bulletin 4,Monitoring teams released water level observations and expected updates.,2,1730022500,river|weather,2,65,1
+27,Power grid teams announce maintenance window bulletin 4,"Maintenance crews outlined service adjustments and safety procedures.
+Further observations will follow later today.",3,1730023400,energy|infrastructure,3,66,2
+28,Technology conference opens with local presentations bulletin 4,Conference speakers discussed local research and new projects.,4,1730024300,technology|education,4,67,3
+29,Health clinics announce extended appointments bulletin 4,Clinic staff outlined appointment slots and available services.,5,1730025200,health|public,5,68,0
+30,Education offices publish enrollment guidelines bulletin 4,Education officers discussed registration dates and enrollment support.,6,1730026100,education|public,6,69,1
+31,City transit services adjust weekend schedules bulletin 5,Transport authorities issued a schedule update and described the affected routes.,7,1730027000,transit|public,1,70,2
+32,River monitoring stations publish new readings bulletin 5,Monitoring teams released water level observations and expected updates.,8,1730027900,river|weather,2,71,3
+33,Power grid teams announce maintenance window bulletin 5,Maintenance crews outlined service adjustments and safety procedures.,1,1730028800,energy|infrastructure,3,72,0
+34,Technology conference opens with local presentations bulletin 5,Conference speakers discussed local research and new projects.,2,1730029700,technology|education,4,73,1
+35,Health clinics announce extended appointments bulletin 5,Clinic staff outlined appointment slots and available services.,3,1730030600,health|public,5,74,2
+36,Education offices publish enrollment guidelines bulletin 5,Education officers discussed registration dates and enrollment support.,4,1730031500,education|public,6,75,3
+37,City transit services adjust weekend schedules bulletin 6,Transport authorities issued a schedule update and described the affected routes.,5,1730032400,transit|public,1,76,0
+38,River monitoring stations publish new readings bulletin 6,Monitoring teams released water level observations and expected updates.,6,1730033300,river|weather,2,77,1
+39,Power grid teams announce maintenance window bulletin 6,Maintenance crews outlined service adjustments and safety procedures.,7,1730034200,energy|infrastructure,3,78,2
+40,Technology conference opens with local presentations bulletin 6,"Conference speakers discussed local research and new projects.
+Further observations will follow later today.",8,1730035100,technology|education,4,79,3
+41,Health clinics announce extended appointments bulletin 6,Clinic staff outlined appointment slots and available services.,1,1730036000,health|public,5,80,0
+42,Education offices publish enrollment guidelines bulletin 6,Education officers discussed registration dates and enrollment support.,2,1730036900,education|public,6,81,1
+43,City transit services adjust weekend schedules bulletin 7,Transport authorities issued a schedule update and described the affected routes.,3,1730037800,transit|public,1,82,2
+44,River monitoring stations publish new readings bulletin 7,Monitoring teams released water level observations and expected updates.,4,1730038700,river|weather,2,83,3
+45,Power grid teams announce maintenance window bulletin 7,Maintenance crews outlined service adjustments and safety procedures.,5,1730039600,energy|infrastructure,3,84,0
+46,Technology conference opens with local presentations bulletin 7,Conference speakers discussed local research and new projects.,6,1730040500,technology|education,4,85,1
+47,Health clinics announce extended appointments bulletin 7,Clinic staff outlined appointment slots and available services.,7,1730041400,health|public,5,86,2
+48,Education offices publish enrollment guidelines bulletin 7,Education officers discussed registration dates and enrollment support.,8,1730042300,education|public,6,87,3
